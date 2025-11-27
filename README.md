@@ -13,7 +13,7 @@ Perfect for hangouts, chaos with friends, and late-night madness. 🔥😄
 - ⚡ Lightweight APK and smooth experience  
 
 ## 🔥 APK Download  
-👉 **[🔗 Download APK]()**  
+👉 **[🔗 Download APK](https://github.com/abirami202l/truth-or-dare-app/releases/download/truthordare/base.apk)**  
 
 
 ## 📸 Screenshots  
