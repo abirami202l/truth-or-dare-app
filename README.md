@@ -17,6 +17,9 @@ Perfect for hangouts, chaos with friends, and late-night madness. 🔥😄
 
 
 ## 📸 Screenshots  
-
-Upload images like this:
+<p align="center">
+  <img src="screenshots/screen1.jpeg" width="30%" style="border-radius:10px;"/>
+  <img src="screenshots/screen2.jpeg" width="30%" style="border-radius:10px;"/>
+  <img src="screenshots/screen3.jpeg" width="30%" style="border-radius:10px;"/>
+</p>
 
